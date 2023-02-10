@@ -39,9 +39,9 @@ Table 2: table_account_info
 ### Create solutions using Python that answer the following:
 - Q2a: Given the input s1 = "bbabcabcbb", find the length of the longest repeating substring. ('abc' and 'bb' are the two substrings.)
 - Q2b: Write a function that will find the length of the longest repeating substring for:
-i. s1 = "bbabcabcbb" 
-ii. s2 = "bbbbb"
-iii. s3 = "pwwkew"
+- i. s1 = "bbabcabcbb" 
+- ii. s2 = "bbbbb"
+- iii. s3 = "pwwkew"
 
 
 # Challenge #3 - 
