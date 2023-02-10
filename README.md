@@ -46,6 +46,8 @@ Table 2: table_account_info.csv
 
 # Challenge #3 - Machine Learning
 
+### Build a model to predict 'failure'
+
 Background
 - A company has a fleet of devices transmitting daily telemetry readings. They would like to create a predictive
 maintenance solution to proactively identify when maintenance should be performed. This approach promises cost
@@ -54,7 +56,7 @@ savings over routine or time-based preventive maintenance, because tasks are per
 The Task
 - You are tasked with building a predictive model using machine learning to predict the probability of a device failure. You may use Python or R.
 When building this model, be sure to minimize false positives and false negatives. The column you are trying to
-predict is called 'failure' in Table 3. The 'failure' column has a binary set of values, 0 for non-failure, and 1 for failure. You are allowed to apply any relevant machine learning methods. Build a model to predict 'failure'. Show your work and support your decisions/conclusions.  
+predict is called 'failure' in Table 3. The 'failure' column has a binary set of values, 0 for non-failure, and 1 for failure. You are allowed to apply any relevant machine learning methods. Show your work and support your decisions/conclusions.  
 
 Data
 - Table 3: predictive_maintenance.csv
